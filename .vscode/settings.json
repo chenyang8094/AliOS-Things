@@ -1,6 +1,6 @@
 {
     "aliosStudio.inner.yosBin": "aos",
-    "aliosStudio.hardware.board": "starterkit",
+    "aliosStudio.hardware.board": "stm32f429bi-armfly",
     "aliosStudio.name": "helloworld",
     "aliosStudio.buildList": [
         {
